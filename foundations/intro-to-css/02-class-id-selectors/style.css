@@ -1,0 +1,23 @@
+.oddnumber
+{
+    background-color: #d98c8c;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.oddnumber.coolernumber
+{
+    font-size: 24px;
+}
+
+#evennumber
+{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#evennumber1
+{
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
